@@ -1,2 +1,2 @@
 <center><h1>I LOVE YOU BEAUTIFUL </h1>
-	<img src="pp.jfif"></center>
+	<img src="p2.jpg"></center>
