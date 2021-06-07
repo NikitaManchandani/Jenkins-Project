@@ -1,2 +1,3 @@
-<center><h1>I LOVE YOU BEAUTIFUL </h1>
-	<img src="p2.jpg"></center>
+<center><h1> Configuration done </h1>
+        <h2>welcome to Automated deployment of Java website on Tomcat server using Jenkins</h2><br>
+        <img alt="logo" src="main-logo.png"></center>
