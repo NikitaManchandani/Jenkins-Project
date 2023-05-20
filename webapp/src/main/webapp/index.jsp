@@ -1,4 +1,4 @@
-<center><h1> Nikita </h1>
+<center><h1> Nikita Manchandani </h1>
         <h2>welcome to Automated deployment of Java website on Tomcat server using Jenkins</h2><br>
 	<img alt="logo" src="main-logo.png"><br>
 	<h1>thank you</h1>
